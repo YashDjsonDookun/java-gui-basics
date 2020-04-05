@@ -1,5 +1,5 @@
 /* 
- *StudentName: Yash Djon Dookun
+ *StudentName: Yash Djson Dookun
  */
 
 // Create a Border Panel & Run
